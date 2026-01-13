@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TECHIT AI - Professional AI Hub",
+  "description": "A high-performance AI workspace featuring multimodal chat and image generation capabilities, powered by Gemini technology.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
